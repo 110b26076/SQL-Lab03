@@ -1,3 +1,3 @@
-Insert Into Employee
+Insert Into Comp_dep
 Values('D003','研發部')
-會,兩個資料表之間的資料一致性，避免因一個資料表的記錄改變時，造成另一個資料表的內容變成無效的值
+不會,可以有重複現象
